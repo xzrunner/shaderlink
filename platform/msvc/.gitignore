@@ -1,0 +1,5 @@
+shaderlink/
+projects/*
+
+!projects/shaderlink.vcxproj
+!projects/shaderlink.vcxproj.filters
